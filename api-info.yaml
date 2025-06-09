@@ -1,10 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: WWJ-Corp-API
+  name: wwj-corp-api
 spec:
   type: openapi
   lifecycle: production
-  owner: user:guest
-  definition:
-    $openapi: https://api.apis.guru/v2/openapi.yaml
+  owner: wwj-corp
+  system: wwj-corp
+  definition: |
+    $text: 'https://github.com/wwj-member-application/tech-docs/blob/main/docs/api/private-access-api.v1.yaml'
