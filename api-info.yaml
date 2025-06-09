@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: 'WWJ Corp. API'
+  name: WWJ-Corp-API
 spec:
   type: openapi
   lifecycle: production
