@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: WWJ Corp. API
+spec:
+  type: openapi
+  lifecycle: production
+  owner: user:guest
+  definition:
+    $openapi: https://api.apis.guru/v2/openapi.yaml
