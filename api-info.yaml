@@ -8,4 +8,4 @@ spec:
   owner: wwj-corp
   system: wwj-corp
   definition: |
-    $text: https://github.com/wwj-member-application/tech-docs/blob/main/docs/api/private-access-api.v1.yaml
+    $text: https://petstore.swagger.io/v2/swagger.json
