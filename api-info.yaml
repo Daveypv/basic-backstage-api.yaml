@@ -8,4 +8,4 @@ spec:
   owner: wwj-corp
   system: wwj-corp
   definition: |
-    $text: https://petstore.swagger.io/v2/swagger.json
+    $text: 'https://petstore.swagger.io/v2/swagger.json'
