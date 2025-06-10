@@ -5,7 +5,7 @@ metadata:
 spec:
   type: openapi
   lifecycle: production
-  owner: wwj-corp
-  system: wwj-corp
+  owner: group:default/wwj-corp
+  system: system:default/wwj-corp
   definition: |
     $json: 'https://petstore.swagger.io/v2/swagger.json'
